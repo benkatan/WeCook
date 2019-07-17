@@ -1,0 +1,2 @@
+# WeCook
+fun angular project
