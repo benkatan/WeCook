@@ -1,0 +1,17 @@
+:host(){
+    height: 100%;
+    width: 100%;
+
+    .cards-section{
+        padding-top: 3%;
+        height: 10%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+
+        .card-warpper{
+
+            width: 15%;
+        }
+    }
+}
